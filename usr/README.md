@@ -1,31 +1,29 @@
-# IPVision Website
+# IPVision CCTV Security System
 
-A modern, responsive landing page for "IPVision" built with Flutter.
+একটি আধুনিক এবং রেসপন্সিভ সিসিটিভি সিকিউরিটি সিস্টেম ওয়েবসাইট যা "IPVision" এর জন্য ফ্লাটার দিয়ে তৈরি করা হয়েছে।
 
-## Features
+## ফিচারসমূহ
 
-- **Responsive Design**: Works perfectly on mobile, tablet, desktop, and web.
-- **Hero Section**: Engaging hero section with clear value proposition and call to action.
-- **Services Showcase**: Clean grid/list layout highlighting core network and IP services.
-- **Modern UI**: Tech-focused aesthetic with deep blue primary colors and crisp typography.
+- **রেসপন্সিভ ডিজাইন**: মোবাইল, ট্যাবলেট, ডেস্কটপ এবং ওয়েবে চমৎকারভাবে কাজ করে।
+- **হিরো সেকশন**: আকর্ষণীয় হিরো সেকশন যেখানে সিসিটিভি সার্ভিসের মূল বার্তা ও কল-টু-অ্যাকশন রয়েছে।
+- **সার্ভিস এবং প্রোডাক্ট শোকেস**: আধুনিক গ্রিড/লিস্ট লেআউট দিয়ে সিকিউরিটি ক্যামেরা এবং সিস্টেমের বিস্তারিত তুলে ধরা হয়েছে।
+- **মডার্ন ইউজার ইন্টারফেস**: সিকিউরিটি ও টেকনোলজি নির্ভর থিম, সুন্দর টাইপোগ্রাফি এবং মানানসই কালার স্কিম।
 
-## Tech Stack
+## টেকনোলজি স্ট্যাক
 
-- **Framework**: Flutter
-- **Language**: Dart
-- **Design**: Material Design 3
+- **ফ্রেমওয়ার্ক**: Flutter
+- **ভাষা**: Dart
+- **ডিজাইন**: Material Design 3
 
-## Setup & Run
+## কীভাবে চালাবেন
 
-1. Make sure you have Flutter installed.
-2. Run `flutter pub get` to fetch dependencies.
-3. Start the application:
-   - For web: `flutter run -d chrome`
-   - For desktop (macOS/Windows/Linux): `flutter run -d macos` (or windows/linux)
-   - For mobile: `flutter run`
+১. আপনার সিস্টেমে ফ্লাটার ইনস্টল করা থাকতে হবে।
+২. ডিপেনডেন্সিগুলো পেতে `flutter pub get` রান করুন।
+৩. অ্যাপটি চালু করতে নিচের কমান্ডগুলো ব্যবহার করুন:
+   - ওয়েবের জন্য: `flutter run -d chrome`
+   - ডেস্কটপের জন্য: `flutter run -d windows` (বা macos/linux)
+   - মোবাইলের জন্য: `flutter run`
 
-## CouldAI 
+## CouldAI সম্পর্কে
 
-Yeh app CouldAI ke zariye banai gayi hai. CouldAI ek AI app builder hai jo cross-platform apps (iOS, Android, Web, aur Desktop) banata hai aur aapki prompts ko real, production-ready applications mein tabdeel karta hai.
-
-[CouldAI](https://could.ai) ka istemal kar ke, AI agents khud-ba-khud app ko architect, build, test aur deploy karte hain.
+এই অ্যাপটি [CouldAI](https://could.ai) দ্বারা জেনারেট করা হয়েছে, যা একটি এআই অ্যাপ বিল্ডার। এটি প্রম্পট থেকে সরাসরি নেটিভ আইওএস, অ্যান্ড্রয়েড, ওয়েব এবং ডেস্কটপ অ্যাপ তৈরি করে। CouldAI এর অটোনোমাস এআই এজেন্টগুলো নিজে থেকেই প্রোডাকশন-রেডি অ্যাপ আর্কিটেক্ট, বিল্ড, টেস্ট, ডিপ্লয় এবং ইটারেট করতে পারে।
